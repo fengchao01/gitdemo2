@@ -7,5 +7,6 @@ package com.fc.entity;
  **/
 public class Student {
     private String name;
-    private String log="本地内容";
+    //private String log="本地内容";
+    private String log="本地内容冲突测试";
 }
