@@ -1,4 +1,4 @@
-package com.fc.fc;
+package com.fc;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
