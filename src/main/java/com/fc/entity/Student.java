@@ -6,4 +6,6 @@ package com.fc.entity;
  * @create 2018/11/8 9:16
  **/
 public class Student {
+    private String name;
+    private String log;
 }
