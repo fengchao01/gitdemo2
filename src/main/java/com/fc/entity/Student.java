@@ -7,5 +7,5 @@ package com.fc.entity;
  **/
 public class Student {
     private String name;
-    private String log;
+    private String log="本地内容";
 }
