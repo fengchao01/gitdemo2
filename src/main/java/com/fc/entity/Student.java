@@ -1,0 +1,9 @@
+package com.fc.entity;
+
+/**
+ * @author fengchao
+ * @site http://120.77.201.137
+ * @create 2018/11/8 9:16
+ **/
+public class Student {
+}
