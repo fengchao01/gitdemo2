@@ -6,7 +6,7 @@ package com.fc.entity;
  * @create 2018/11/8 9:16
  **/
 public class Student {
-    private String name;
+    private String name="master分支内容";
     //private String log="本地内容";
     private String log="本地内容冲突测试";
 }
